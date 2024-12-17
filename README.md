@@ -1,6 +1,8 @@
 # Libft
 
-`libft` is a personal library of C functions, mirroring some standard library functions while providing additional utilities. The aim of the project is to gain insight into the inner workings and principles of these standard functions to have a good foundation for further projects in C.
+`libft` is a personal library of C functions, mirroring some standard library functions for tasks like string manipulation, memory allocation, and linked list handling.
+
+The aim of the project is to gain insight into the inner workings and principles of basic standard functions to have a good foundation for further projects in C.
 
 ## Functions in Libft
 
